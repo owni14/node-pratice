@@ -57,3 +57,58 @@
 22Y-11-02 19:51:03 [백엔드 기초] info : GET /register 304 - - 4.298 ms
 
 22Y-11-02 19:52:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:28:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:28:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:29:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:29:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:30:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:31:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:32:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:32:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:32:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:32:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 20:32:03 [백엔드 기초] info : POST /login 200 Response: true undefined
+22Y-11-02 20:32:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 20:34:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:34:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:34:03 [백엔드 기초] info : POST /login 200 Response: true 
+22Y-11-02 20:34:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 20:35:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:36:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:36:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:36:03 [백엔드 기초] info : POST /login 200 Response: false 비밀번호가 틀렸습니다.
+22Y-11-02 20:36:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:36:03 [백엔드 기초] info : POST /login 200 Response: true 
+22Y-11-02 20:36:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 20:37:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:37:03 [백엔드 기초] info : POST /login 200 Response: false 비밀번호가 틀렸습니다.
+22Y-11-02 20:37:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:37:03 [백엔드 기초] info : POST /login 200 Response: false 비밀번호가 틀렸습니다.
+22Y-11-02 20:37:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:37:03 [백엔드 기초] info : POST /login 200 Response: false 비밀번호가 틀렸습니다.
+22Y-11-02 20:38:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:39:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:39:03 [백엔드 기초] error : POST /login 400 Response: true, Error: ER_NO_SUCH_TABLE: Table 'my_database.abc' doesn't exist
+22Y-11-02 20:39:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 20:39:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:40:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:40:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 20:40:03 [백엔드 기초] info : POST /login 200 Response: false 비밀번호가 틀렸습니다.
+22Y-11-02 20:40:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:40:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:43:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:44:03 [백엔드 기초] error : POST /login 400 Response: true, TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+22Y-11-02 20:44:03 [백엔드 기초] info : GET / 304 '홈 화면으로 이동'
+22Y-11-02 20:44:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:44:03 [백엔드 기초] error : POST /login 400 Response: true, TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+22Y-11-02 20:44:03 [백엔드 기초] info : GET / 304 '홈 화면으로 이동'
+22Y-11-02 20:45:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:45:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:45:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:45:03 [백엔드 기초] info : GET /login 304 '로그인 화면으로 이동'
+22Y-11-02 20:45:03 [백엔드 기초] info : POST /login 200 Response: false 존재하지 않는 아이디입니다.
+22Y-11-02 20:46:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:46:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:46:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:47:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 20:48:03 [백엔드 기초] info : Started in 8000 port
