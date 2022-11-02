@@ -1,12 +1,59 @@
-22Y-11-02 19:33:03 [백엔드 기초] error : hello guys
-22Y-11-02 19:33:03 [백엔드 기초] error : hello guys
-22Y-11-02 19:33:03 [백엔드 기초] info : Start Server
-22Y-11-02 19:33:03 [백엔드 기초] error : hello guys
-22Y-11-02 19:33:03 [백엔드 기초] info : Started in 8000
-22Y-11-02 19:34:03 [백엔드 기초] error : hello guys
-22Y-11-02 19:34:03 [백엔드 기초] info : Started in 8000port
-22Y-11-02 19:34:03 [백엔드 기초] error : hello guys
-22Y-11-02 19:34:03 [백엔드 기초] info : Started in 8000 port
-22Y-11-02 19:34:03 [백엔드 기초] error : hello guys
-22Y-11-02 19:34:03 [백엔드 기초] info : Started in 8000 port
-22Y-11-02 19:34:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:37:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:38:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:38:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:38:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:39:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:39:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:39:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 19:39:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 19:39:03 [백엔드 기초] info : GET /register 200 '회원가입 화면으로 이동'
+22Y-11-02 19:40:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:40:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:40:03 [백엔드 기초] info : GET /register 200 '회원가입 화면으로 이동'
+22Y-11-02 19:40:03 [백엔드 기초] info : POST /login 200 Response: 'success: true, msg: TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+22Y-11-02 19:40:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 19:40:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 19:40:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 19:41:03 [백엔드 기초] info : POST /login 200 Response: 'success: true, msg: undefined
+22Y-11-02 19:41:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 19:42:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:42:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 19:42:03 [백엔드 기초] info : POST /login 200 Response: 'success: false, msg: 비밀번호가 틀렸습니다.
+22Y-11-02 19:43:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:43:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:43:03 [백엔드 기초] info : POST /login 200 Response: 'success: true, msg: Error: ER_NO_SUCH_TABLE: Table 'my_database.sbc' doesn't exist
+22Y-11-02 19:43:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 19:43:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 19:43:03 [백엔드 기초] info : POST /login 200 Response: 'success: true, msg: Error: ER_NO_SUCH_TABLE: Table 'my_database.sbc' doesn't exist
+22Y-11-02 19:43:03 [백엔드 기초] info : GET / 200 '홈 화면으로 이동'
+22Y-11-02 19:43:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 19:43:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:44:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:44:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:45:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:45:03 [백엔드 기초] info : POST /login 200 Response: 'success: false, msg: 비밀번호가 틀렸습니다.
+22Y-11-02 19:45:03 [백엔드 기초] info : POST /login 200 Response: 'success: false, msg: 비밀번호가 틀렸습니다.
+22Y-11-02 19:46:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:46:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:47:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:47:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:47:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:47:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:47:03 [백엔드 기초] info : GET /register 200 '회원가입 화면으로 이동'
+22Y-11-02 19:47:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:48:03 [백엔드 기초] error : POST /register 200 Response: 'success: false, msg: Error: ER_NO_SUCH_TABLE: Table 'my_database.abc' doesn't exist
+22Y-11-02 19:48:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:49:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:50:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:50:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:50:03 [백엔드 기초] info : GET /register 200 '회원가입 화면으로 이동'
+22Y-11-02 19:50:03 [백엔드 기초] info : ::1 - - [02/Nov/2022:10:50:52 +0000] "GET /register HTTP/1.1" 200 1062
+
+22Y-11-02 19:51:03 [백엔드 기초] info : Started in 8000 port
+22Y-11-02 19:51:03 [백엔드 기초] info : GET /login 200 '로그인 화면으로 이동'
+22Y-11-02 19:51:03 [백엔드 기초] info : GET /login 200 891 - 10.429 ms
+
+22Y-11-02 19:51:03 [백엔드 기초] info : GET /register 200 '회원가입 화면으로 이동'
+22Y-11-02 19:51:03 [백엔드 기초] info : GET /register 304 - - 4.298 ms
+
+22Y-11-02 19:52:03 [백엔드 기초] info : Started in 8000 port
